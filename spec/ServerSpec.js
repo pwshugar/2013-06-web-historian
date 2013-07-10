@@ -1,7 +1,8 @@
 var handler = require("../web/request-handler");
-handler.datadir = __dirname + "testdata/sites.txt";
+handler.datadir = __dirname + "/testdata/sites.txt";
 var stubs = require("./helpers/stubs");
 var res;
+var fs = require('fs');
 
 // allows us to run tests async
 function async(cb){
@@ -43,8 +44,8 @@ describe("Node Server Request Listener Function", function() {
     var req = new stubs.Request("http://127.0.0.1:8081/", "POST", {url: url});
 
     handler.handleRequest(req, res);
+    var fileContents = fs.readFileSync(handler.datadir, 'utf8');
 
-    var fileContents = fs.readFileSync(handler.datadir);
     expect(res._responseCode).toEqual(302);
     expect(fileContents).toEqual(url + "\n");
     expect(res._ended).toEqual(true);
