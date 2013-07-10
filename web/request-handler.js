@@ -10,7 +10,6 @@ var defaultCorsHeaders = {
 };
 
 exports.handleRequest = function (req, res) {
-    console.log('spec datadir', __dirname);
 
   var body = 'helloooo';
   var statusCode;
@@ -20,7 +19,6 @@ exports.handleRequest = function (req, res) {
 
   if(req.method === 'GET'){
     res.writeHead(200, headers);
-    console.log("does it exist?", (fs.existsSync('/Users/hackreactor/code/Shugardude/2013-06-web-historian/data/sites/' + req.url.substr(22))), '/Users/hackreactor/code/Shugardude/2013-06-web-historian/data/sites/' + req.url.substr(22));
     if (fs.existsSync('/Users/hackreactor/code/Shugardude/2013-06-web-historian/data/sites/' + req.url.substr(22))) {
       if (req.url.substr(22) === ''){
         res.end('<input></input>');
@@ -39,15 +37,14 @@ exports.handleRequest = function (req, res) {
       body += data;
     });
     req.on('end', function(){
-      fs.appendFile(exports.datadir,", " + req._postData.url, function () {
-          console.log('this is the req', req);
-      });
+      fs.appendFileSync(exports.datadir,req._postData.url + "\n");
       // fs.appendFile(exports.datadir,", " + body.substr(4), function () {
       //     console.log(body.substr(4));
       // });
       res.writeHead(302, headers);
-      console.log('url console',req._postData.url);
-      res.end(req.url);
+      console.log('testfile contents', fs.readFileSync(exports.datadir, 'utf8'));
+      console.log(exports.datadir);
+      res.end(req._postData.url + "\n");
     });
   }
 };

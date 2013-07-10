@@ -4,7 +4,7 @@ var fs = require("fs");
 
 describe("html fetcher helpers", function(){
 
-  it("should have a 'readUrls' function", function(){
+  xit("should have a 'readUrls' function", function(){
     var urlArray = ["example1.com", "example2.com"];
 
     fs.writeFileSync(__dirname + "/testdata/sites.txt", urlArray.join("\n"));
