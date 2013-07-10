@@ -11,6 +11,7 @@ var defaultCorsHeaders = {
 
 exports.handleRequest = function (req, res) {
 
+  var statusCode;
 
   var headers = defaultCorsHeaders;
   headers['Content-Type'] = "application/json";
