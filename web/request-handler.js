@@ -10,13 +10,22 @@ var defaultCorsHeaders = {
 };
 
 exports.handleRequest = function (req, res) {
-  fs.appendFile('/Users/hackreactor/code/Shugardude/2013-06-web-historian/data/sites.txt', ', something', function () {
-      console.log('It\'s saved!');
-  });
 
 
   var headers = defaultCorsHeaders;
   headers['Content-Type'] = "application/json";
+
+  if(req.method === 'POST'){
+    var body = '';
+    req.on('data', function(data){
+      body += data;
+    });
+    req.on('end', function(){
+      fs.appendFile('/Users/hackreactor/code/Shugardude/2013-06-web-historian/data/sites.txt',", " + body.substr(4), function () {
+          console.log(body.substr(4));
+      });
+    });
+  }
 
   res.writeHead(200, headers);
   res.end('');
