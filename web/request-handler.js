@@ -1,4 +1,6 @@
 var fs = require('fs');
+var htmlfetcher = require('/Users/hackreactor/code/Shugardude/2013-06-web-historian/workers/htmlfetcher.js');
+var helpers = require("../workers/lib/html-fetcher-helpers");
 
 exports.datadir = '/Users/hackreactor/code/Shugardude/2013-06-web-historian/data/sites.txt'; // tests will need to override this.
 
@@ -10,8 +12,7 @@ var defaultCorsHeaders = {
 };
 
 exports.handleRequest = function (req, res) {
-
-  var body = 'helloooo';
+  var body;
   var statusCode;
 
   var headers = defaultCorsHeaders;
@@ -46,4 +47,5 @@ exports.handleRequest = function (req, res) {
       res.end(body.substr(4));
     });
   }
+  htmlfetcher.runOnce();
 };
