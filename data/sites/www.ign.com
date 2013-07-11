@@ -377,7 +377,7 @@
             </div> <!-- END: evo-coverStories -->
                     </div> <!-- END: evo-wrapper -->
 
-<!-- View Generation: 77ms - 11.25MB - 20 -->
+<!-- View Generation: 96ms - 11.25MB - 88 -->
     </div>
 
     <div class="grid_16 main-column-content">
@@ -396,7 +396,7 @@
             <div class="extra-storyItem-thumb"><a href="http://www.ign.com/articles/2013/07/10/sony-tweets-mysterious-teaser-image" class="thumb"><img width="136" height="77" src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/tease_176-136x77.jpg" alt="IMG - Sony Tweets Mysterious Teaser Image" /></a></div><a href="http://www.ign.com/articles/2013/07/10/sony-tweets-mysterious-teaser-image">Sony Tweets Mysterious Teaser Image</a>                    </div>
         </div>
 
-<!-- View Generation: 124ms - 7.50MB - 88 -->
+<!-- View Generation: 63ms - 7.50MB - 19 -->
 
         
 <!-- START: breakingnews widget -->
@@ -439,24 +439,24 @@
 <!-- poilib start -->
 <div class="listElmnt">
 <div class="listElmnt-thumb">
-<a class="listElmnt-storyHeadline thumb" href="http://www.ign.com/articles/2013/07/11/aubrey-plaza-lisa-edelstein-james-remar-join-korra-book-two"><img src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/legend-of-korra-eska-176-136x77.jpg"/></a>
+<a class="listElmnt-storyHeadline thumb" href="http://www.ign.com/articles/2013/07/10/the-bridge-pilot-review?abthid=51de351aa50d0f202000001f"><img src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/TheBridgeBlog176-136x77.jpg"/></a>
 </div>
 <div class="listElmnt-blogItem">
-<h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/aubrey-plaza-lisa-edelstein-james-remar-join-korra-book-two">Korra: Book Two Gets All Star Voice Cast</a></h3>
-<p><span class="listElmnt-date">1 hour 27 minutes ago -&nbsp;</span>The Legend of Korra has a few new voices joining the cast for Book Two, including Aubrey Plaza, Lisa Edelstein and James Remar. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/aubrey-plaza-lisa-edelstein-james-remar-join-korra-book-two">Read More &raquo;</a></p>
-<a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/aubrey-plaza-lisa-edelstein-james-remar-join-korra-book-two#disqus_thread" data-disqus-identifier="51de0ca5ae0a83712e27f34a"> 1 Comment</a>
+<h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/10/the-bridge-pilot-review?abthid=51de351aa50d0f202000001f">How is FX's Newest Drama Series?</a></h3>
+<p><span class="listElmnt-date">5 minutes ago -&nbsp;</span>FX's newest drama, the murder mystery The Bridge, debuted Tuesday night. Check out our review and let us know what you thought in the comments.  <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/the-bridge-pilot-review?abthid=51de351aa50d0f202000001f">Read More &raquo;</a></p>
+<a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/10/the-bridge-pilot-review?abthid=51de351aa50d0f202000001f#disqus_thread" data-disqus-identifier="51de326e0c2b1e2745bda933"> 1 Comment</a>
 </div>
 </div>
 <!-- poilib end -->
 <!-- poilib start -->
 <div class="listElmnt">
 <div class="listElmnt-thumb">
-<a class="listElmnt-storyHeadline thumb" href="http://www.ign.com/articles/2013/07/11/heres-game-of-thrones-real-iron-throne?abthid=51de2f24a50d0f202000001d"><img src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/IronThroneReal2-136x77.jpg"/></a>
+<a class="listElmnt-storyHeadline thumb" href="http://www.ign.com/articles/2013/07/11/aubrey-plaza-lisa-edelstein-james-remar-join-korra-book-two"><img src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/legend-of-korra-eska-176-136x77.jpg"/></a>
 </div>
 <div class="listElmnt-blogItem">
-<h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/heres-game-of-thrones-real-iron-throne?abthid=51de2f24a50d0f202000001d">Here's Game of Thrones' 'Real' Iron Throne</a></h3>
-<p><span class="listElmnt-date">1 hour 31 minutes ago -&nbsp;</span>Game of Thrones author George R.R. Martin thinks the HBO throne is "still not right."  <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/heres-game-of-thrones-real-iron-throne?abthid=51de2f24a50d0f202000001d">Read More &raquo;</a></p>
-<a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/heres-game-of-thrones-real-iron-throne?abthid=51de2f24a50d0f202000001d#disqus_thread" data-disqus-identifier="51de1774ae0a83712e27f34e"> 1 Comment</a>
+<h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/aubrey-plaza-lisa-edelstein-james-remar-join-korra-book-two">Korra: Book Two Gets All Star Voice Cast</a></h3>
+<p><span class="listElmnt-date">1 hour 34 minutes ago -&nbsp;</span>The Legend of Korra has a few new voices joining the cast for Book Two, including Aubrey Plaza, Lisa Edelstein and James Remar. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/aubrey-plaza-lisa-edelstein-james-remar-join-korra-book-two">Read More &raquo;</a></p>
+<a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/aubrey-plaza-lisa-edelstein-james-remar-join-korra-book-two#disqus_thread" data-disqus-identifier="51de0ca5ae0a83712e27f34a"> 1 Comment</a>
 </div>
 </div>
 <!-- poilib end -->
@@ -562,11 +562,23 @@
                     <!-- poilib start -->
 <div class="listElmnt">
 <div class="listElmnt-thumb">
+<a class="listElmnt-storyHeadline thumb" href="http://www.ign.com/articles/2013/07/11/heres-game-of-thrones-real-iron-throne"><img src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/IronThroneReal2-136x77.jpg"/></a>
+</div>
+<div class="listElmnt-blogItem">
+<h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/heres-game-of-thrones-real-iron-throne">Here's Game of Thrones' 'Real' Iron Throne</a></h3>
+<p><span class="listElmnt-date">1 hour 38 minutes ago -&nbsp;</span>Game of Thrones author George R.R. Martin thinks the HBO throne is "still not right."  <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/heres-game-of-thrones-real-iron-throne">Read More &raquo;</a></p>
+<a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/heres-game-of-thrones-real-iron-throne#disqus_thread" data-disqus-identifier="51de1774ae0a83712e27f34e"> 1 Comment</a>
+</div>
+</div>
+<!-- poilib end -->
+<!-- poilib start -->
+<div class="listElmnt">
+<div class="listElmnt-thumb">
 <a class="listElmnt-storyHeadline thumb" href="http://www.ign.com/articles/2013/07/11/hot-wheels-movie-circles-in-on-a-director"><img src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/Hot-Wheels-Blogs-136x77.jpg"/></a>
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/hot-wheels-movie-circles-in-on-a-director">Hot Wheels: 28 Days Later Helmer May Direct</a></h3>
-<p><span class="listElmnt-date">3 hours 23 minutes ago -&nbsp;</span>The movie version of the Mattel toy car line Hot Wheels is circling in on a director. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/hot-wheels-movie-circles-in-on-a-director">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">3 hours 30 minutes ago -&nbsp;</span>The movie version of the Mattel toy car line Hot Wheels is circling in on a director. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/hot-wheels-movie-circles-in-on-a-director">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/hot-wheels-movie-circles-in-on-a-director#disqus_thread" data-disqus-identifier="51de0012e20c615c07f1cbda"> 1 Comment</a>
 </div>
 </div>
@@ -578,7 +590,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/traditional-ratchet-clank-is-back-with-into-the-nexus">Ratchet & Clank Return to Their Roots</a></h3>
-<p><span class="listElmnt-date">3 hours 29 minutes ago -&nbsp;</span>Ask, and you shall receive! Insomniac Games is working on an all-new, traditional Ratchet &amp; Clank game, and we have your very first look. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/traditional-ratchet-clank-is-back-with-into-the-nexus">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">3 hours 36 minutes ago -&nbsp;</span>Ask, and you shall receive! Insomniac Games is working on an all-new, traditional Ratchet &amp; Clank game, and we have your very first look. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/traditional-ratchet-clank-is-back-with-into-the-nexus">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/traditional-ratchet-clank-is-back-with-into-the-nexus#disqus_thread" data-disqus-identifier="51dd8985ae0a83712e27f319"> 1 Comment</a>
 </div>
 </div>
@@ -590,7 +602,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/videos/2013/07/10/ratchet-clank-into-the-nexus-video-preview">Your Very First Look at Ratchet & Clank: Into the Nexus</a></h3>
-<p><span class="listElmnt-date">3 hours 30 minutes ago -&nbsp;</span>We've been lucky enough to get the world's very first glimpse of the upcoming, traditional R&C game on PS3. Here's everything you need to know. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/ratchet-clank-into-the-nexus-video-preview">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">3 hours 36 minutes ago -&nbsp;</span>We've been lucky enough to get the world's very first glimpse of the upcoming, traditional R&C game on PS3. Here's everything you need to know. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/ratchet-clank-into-the-nexus-video-preview">Read More &raquo;</a></p>
 </div>
 </div>
 <!-- poilib end -->
@@ -601,30 +613,18 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/videos/2013/07/10/news-new-ratchet-clank-game-announced">New Ratchet & Clank Game Announced</a></h3>
-<p><span class="listElmnt-date">3 hours 30 minutes ago -&nbsp;</span>Sony has announced Ratchet & Clank: Into the Nexus, coming to PS3 this year. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/news-new-ratchet-clank-game-announced">Read More &raquo;</a></p>
-</div>
-</div>
-<!-- poilib end -->
-<!-- poilib start -->
-<div class="listElmnt">
-<div class="listElmnt-thumb">
-<a class="listElmnt-storyHeadline video-thumb" href="http://www.ign.com/videos/2013/07/10/vogues-konami-code-easter-egg" data-video-url="http://www.ign.com/videos/2013/07/10/vogues-konami-code-easter-egg"><img src="http://assets1.ignimgs.com/vid/thumbnails/user/2013/07/10/voguethumbs_160w.jpg"/></a>
-</div>
-<div class="listElmnt-blogItem">
-<h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/videos/2013/07/10/vogues-konami-code-easter-egg">Vogue's Konami Code Easter Egg</a></h3>
-<p><span class="listElmnt-date">3 hours 33 minutes ago -&nbsp;</span>Alfredo show's Destin something he found on the Vogue website after putting in the Konami code. Velociraptors are involved. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/vogues-konami-code-easter-egg">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">3 hours 36 minutes ago -&nbsp;</span>Sony has announced Ratchet & Clank: Into the Nexus, coming to PS3 this year. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/news-new-ratchet-clank-game-announced">Read More &raquo;</a></p>
 </div>
 </div>
 <!-- poilib end -->
 <!-- poilib start -->
 <div class="listElmnt noBottomBorder">
 <div class="listElmnt-thumb">
-<a class="listElmnt-storyHeadline thumb" href="http://www.ign.com/articles/2013/07/11/watch-the-trailer-for-the-canyons-with-lindsay-lohan-and-porn-star-james-deen"><img src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/the-canyons-lindsay-lohan1-136x77.jpg"/></a>
+<a class="listElmnt-storyHeadline video-thumb" href="http://www.ign.com/videos/2013/07/10/vogues-konami-code-easter-egg" data-video-url="http://www.ign.com/videos/2013/07/10/vogues-konami-code-easter-egg"><img src="http://assets1.ignimgs.com/vid/thumbnails/user/2013/07/10/voguethumbs_160w.jpg"/></a>
 </div>
 <div class="listElmnt-blogItem">
-<h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/watch-the-trailer-for-the-canyons-with-lindsay-lohan-and-porn-star-james-deen">So That Movie Lohan Made With a Porn Star</a></h3>
-<p><span class="listElmnt-date">3 hours 36 minutes ago -&nbsp;</span>Lindsay Lohan and porn star James Deen star in The Canyons, an erotic thriller from the creators of Taxi Driver and American Psycho. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/watch-the-trailer-for-the-canyons-with-lindsay-lohan-and-porn-star-james-deen">Read More &raquo;</a></p>
-<a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/watch-the-trailer-for-the-canyons-with-lindsay-lohan-and-porn-star-james-deen#disqus_thread" data-disqus-identifier="51ddfed4ae0a83712e27f347"> 1 Comment</a>
+<h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/videos/2013/07/10/vogues-konami-code-easter-egg">Vogue's Konami Code Easter Egg</a></h3>
+<p><span class="listElmnt-date">3 hours 39 minutes ago -&nbsp;</span>Alfredo show's Destin something he found on the Vogue website after putting in the Konami code. Velociraptors are involved. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/vogues-konami-code-easter-egg">Read More &raquo;</a></p>
 </div>
 </div>
 <!-- poilib end -->
@@ -635,7 +635,7 @@
                 <div class="trendingwikis-row trendingwikis-clear">
         <a class="trendingwikis-readerCount clear" href="http://www.ign.com/wikis/borderlands-2">
             <span class="trendingwikis-countContainer">
-                <span class="trendingwikis-count">106</span>
+                <span class="trendingwikis-count">94</span>
                 <span>Reading</span>
             </span>
             <img class="trendingwikis-boxArt" src="http://wirelessmedia.ign.com/wireless/image/object/094/094189/borderlands2ps3mboxart_75h.jpg"/>        </a>
@@ -652,7 +652,7 @@
                     <div class="trendingwikis-row trendingwikis-clear">
         <a class="trendingwikis-readerCount clear" href="http://www.ign.com/wikis/super-smash-bros-wii-u-3ds">
             <span class="trendingwikis-countContainer">
-                <span class="trendingwikis-count">101</span>
+                <span class="trendingwikis-count">89</span>
                 <span>Reading</span>
             </span>
             <img class="trendingwikis-boxArt" src="http://assets2.ignimgs.com/2013/06/11/smash-bros-2014generaljpg-50e97e.jpg"/>        </a>
@@ -669,7 +669,7 @@
                     <div class="trendingwikis-row trendingwikis-clear">
         <a class="trendingwikis-readerCount clear" href="http://www.ign.com/wikis/sdcc-comic-con">
             <span class="trendingwikis-countContainer">
-                <span class="trendingwikis-count">87</span>
+                <span class="trendingwikis-count">66</span>
                 <span>Reading</span>
             </span>
             <img class="trendingwikis-boxArt" src="http://oystatic.ignimgs.com/src/social/img/noimage-60px.jpg"/>        </a>
@@ -689,11 +689,23 @@
                     <!-- poilib start -->
 <div class="listElmnt">
 <div class="listElmnt-thumb">
+<a class="listElmnt-storyHeadline thumb" href="http://www.ign.com/articles/2013/07/11/watch-the-trailer-for-the-canyons-with-lindsay-lohan-and-porn-star-james-deen"><img src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/the-canyons-lindsay-lohan1-136x77.jpg"/></a>
+</div>
+<div class="listElmnt-blogItem">
+<h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/watch-the-trailer-for-the-canyons-with-lindsay-lohan-and-porn-star-james-deen">So That Movie Lohan Made With a Porn Star</a></h3>
+<p><span class="listElmnt-date">3 hours 43 minutes ago -&nbsp;</span>Lindsay Lohan and porn star James Deen star in The Canyons, an erotic thriller from the creators of Taxi Driver and American Psycho. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/watch-the-trailer-for-the-canyons-with-lindsay-lohan-and-porn-star-james-deen">Read More &raquo;</a></p>
+<a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/watch-the-trailer-for-the-canyons-with-lindsay-lohan-and-porn-star-james-deen#disqus_thread" data-disqus-identifier="51ddfed4ae0a83712e27f347"> 1 Comment</a>
+</div>
+</div>
+<!-- poilib end -->
+<!-- poilib start -->
+<div class="listElmnt">
+<div class="listElmnt-thumb">
 <a class="listElmnt-storyHeadline thumb" href="http://www.ign.com/articles/2013/07/11/wii-u-firmware-update-available-future-update-planned"><img src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/mariowiiu_012213_176-136x77.jpg"/></a>
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/wii-u-firmware-update-available-future-update-planned">Wii U Firmware Update Available, Future Update Planned</a></h3>
-<p><span class="listElmnt-date">3 hours 47 minutes ago -&nbsp;</span>A new firmware update is available for Wii U - plus Nintendo provides a timeframe for a mysterious future update! <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/wii-u-firmware-update-available-future-update-planned">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">3 hours 54 minutes ago -&nbsp;</span>A new firmware update is available for Wii U - plus Nintendo provides a timeframe for a mysterious future update! <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/wii-u-firmware-update-available-future-update-planned">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/wii-u-firmware-update-available-future-update-planned#disqus_thread" data-disqus-identifier="51ddfcd1402d55e7fb3f6f17"> 1 Comment</a>
 </div>
 </div>
@@ -704,7 +716,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/videos/2013/07/10/ign-plays-pacific-rim-the-mobile-game">See Pacific Rim: The Mobile Game in Action</a></h3>
-<p><span class="listElmnt-date">3 hours 55 minutes ago -&nbsp;</span>Justin and Mitch check out Pacific Rim's Infinity Blade-style Jaeger vs. Kaiju combat. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/ign-plays-pacific-rim-the-mobile-game">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 1 minute ago -&nbsp;</span>Justin and Mitch check out Pacific Rim's Infinity Blade-style Jaeger vs. Kaiju combat. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/ign-plays-pacific-rim-the-mobile-game">Read More &raquo;</a></p>
 </div>
 </div>
 <!-- poilib end -->
@@ -715,7 +727,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/depp-koepp-to-reunite-for-the-great-mortdecai-moustache-mystery">What Might be Next for Johnny Depp?</a></h3>
-<p><span class="listElmnt-date">3 hours 56 minutes ago -&nbsp;</span>Secret Window team of Johnny Depp and writer-director David Koepp will reunite for an adaptation of The Great Mortdecai Moustache Mystery. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/depp-koepp-to-reunite-for-the-great-mortdecai-moustache-mystery">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 3 minutes ago -&nbsp;</span>Secret Window team of Johnny Depp and writer-director David Koepp will reunite for an adaptation of The Great Mortdecai Moustache Mystery. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/depp-koepp-to-reunite-for-the-great-mortdecai-moustache-mystery">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/depp-koepp-to-reunite-for-the-great-mortdecai-moustache-mystery#disqus_thread" data-disqus-identifier="51ddf832ae0a83712e27f343"> 1 Comment</a>
 </div>
 </div>
@@ -727,7 +739,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/time-and-eternity-review">Time and Eternity Review</a></h3>
-<p><span class="listElmnt-date">3 hours 57 minutes ago -&nbsp;</span>PlayStation 3's newest exclusive JRPG, Time and Eternity, suffers from technical problems and repetition galore. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/time-and-eternity-review">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 4 minutes ago -&nbsp;</span>PlayStation 3's newest exclusive JRPG, Time and Eternity, suffers from technical problems and repetition galore. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/time-and-eternity-review">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/time-and-eternity-review#disqus_thread" data-disqus-identifier="51ddec160c2b1e2745bda916"> 1 Comment</a>
 </div>
 </div>
@@ -739,7 +751,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/videos/2013/07/10/ign-weekly-wood-071013">Win a Man of Steel Statue!</a></h3>
-<p><span class="listElmnt-date">4 hours 2 minutes ago -&nbsp;</span>Weekly 'Wood with Naomi Kyle: LXG returns, the ultimate Dark Knight experience awaits you, and Idris Elba talks Thor 2. Plus, a "super" giveaway! <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/ign-weekly-wood-071013">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 8 minutes ago -&nbsp;</span>Weekly 'Wood with Naomi Kyle: LXG returns, the ultimate Dark Knight experience awaits you, and Idris Elba talks Thor 2. Plus, a "super" giveaway! <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/ign-weekly-wood-071013">Read More &raquo;</a></p>
 </div>
 </div>
 <!-- poilib end -->
@@ -750,7 +762,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/damon-wayans-jr-nears-deal-for-new-girl-return">Damon Wayans Jr. Returning to New Girl</a></h3>
-<p><span class="listElmnt-date">4 hours 16 minutes ago -&nbsp;</span>With Happy Endings cancelled, Damon Wayans Jr. nears a deal to return to New Girl as Nick and Schmidt's roommate from the first episode. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/damon-wayans-jr-nears-deal-for-new-girl-return">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 23 minutes ago -&nbsp;</span>With Happy Endings cancelled, Damon Wayans Jr. nears a deal to return to New Girl as Nick and Schmidt's roommate from the first episode. <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/damon-wayans-jr-nears-deal-for-new-girl-return">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/damon-wayans-jr-nears-deal-for-new-girl-return#disqus_thread" data-disqus-identifier="51ddf605ae0a83712e27f33f"> 1 Comment</a>
 </div>
 </div>
@@ -762,7 +774,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/videos/2013/07/10/oldboy-red-band-trailer-1">Watch the Red Band Trailer for Oldboy</a></h3>
-<p><span class="listElmnt-date">4 hours 19 minutes ago -&nbsp;</span>Your first look at director Spike Lee's remake of the South Korean revenge thriller. Josh Brolin, Elizabeth Olsen and Sharlto Copley star. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/oldboy-red-band-trailer-1">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 25 minutes ago -&nbsp;</span>Your first look at director Spike Lee's remake of the South Korean revenge thriller. Josh Brolin, Elizabeth Olsen and Sharlto Copley star. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/oldboy-red-band-trailer-1">Read More &raquo;</a></p>
 </div>
 </div>
 <!-- poilib end -->
@@ -773,7 +785,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/wikis/super-smash-bros-wii-u-3ds/Daily_Updates">Super Smash Bros. Update: Mario and Mega Man's Dog</a></h3>
-<p><span class="listElmnt-date">4 hours 24 minutes ago -&nbsp;</span>The Super Smash Bros. for Wii U and 3DS daily updates continue and we've been logging them all right here. <a class="moreLink" href="http://www.ign.com/wikis/super-smash-bros-wii-u-3ds/Daily_Updates">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 30 minutes ago -&nbsp;</span>The Super Smash Bros. for Wii U and 3DS daily updates continue and we've been logging them all right here. <a class="moreLink" href="http://www.ign.com/wikis/super-smash-bros-wii-u-3ds/Daily_Updates">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/wikis/super-smash-bros-wii-u-3ds/Daily_Updates#disqus_thread" data-disqus-identifier="51ddf5bdae0a83712e27f33e"> 1 Comment</a>
 </div>
 </div>
@@ -785,7 +797,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/11/godzilla-viral-site-tracks-mysterious-encounters">New Viral Site Appears for Godzilla Reboot</a></h3>
-<p><span class="listElmnt-date">4 hours 29 minutes ago -&nbsp;</span>A new online marketing campaign for Gareth Edwards' Godzilla reboot kicked off today that's tracking mysterious monster "encounters." <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/godzilla-viral-site-tracks-mysterious-encounters">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 36 minutes ago -&nbsp;</span>A new online marketing campaign for Gareth Edwards' Godzilla reboot kicked off today that's tracking mysterious monster "encounters." <a class="moreLink" href="http://www.ign.com/articles/2013/07/11/godzilla-viral-site-tracks-mysterious-encounters">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/11/godzilla-viral-site-tracks-mysterious-encounters#disqus_thread" data-disqus-identifier="51ddedcd0c2b1e2745bda917"> 1 Comment</a>
 </div>
 </div>
@@ -797,7 +809,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/10/guardians-of-the-galaxy-villains-revealed">Villains Revealed for Marvel's Guardians?</a></h3>
-<p><span class="listElmnt-date">4 hours 38 minutes ago -&nbsp;</span>Do we now who Benicio Del Toro, Lee Pace and Karen Gillan are playing in Marvel's Guardians of the Galaxy? <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/guardians-of-the-galaxy-villains-revealed">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 45 minutes ago -&nbsp;</span>Do we now who Benicio Del Toro, Lee Pace and Karen Gillan are playing in Marvel's Guardians of the Galaxy? <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/guardians-of-the-galaxy-villains-revealed">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/10/guardians-of-the-galaxy-villains-revealed#disqus_thread" data-disqus-identifier="51dddb66402d55e7fb3f6f09"> 1 Comment</a>
 </div>
 </div>
@@ -809,7 +821,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/10/ign-will-stream-live-from-comic-con">Catch the IGN Stream Live From SDCC</a></h3>
-<p><span class="listElmnt-date">4 hours 42 minutes ago -&nbsp;</span>Three days of streaming coverage, including news, analysis, celebrity interviews and game exclusives. <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/ign-will-stream-live-from-comic-con">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 49 minutes ago -&nbsp;</span>Three days of streaming coverage, including news, analysis, celebrity interviews and game exclusives. <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/ign-will-stream-live-from-comic-con">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/10/ign-will-stream-live-from-comic-con#disqus_thread" data-disqus-identifier="51ddd69c0c2b1e2745bda90a"> 1 Comment</a>
 </div>
 </div>
@@ -821,7 +833,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/10/who-are-the-villains-of-beware-the-batman">Beware the Batman: Meet the Villains</a></h3>
-<p><span class="listElmnt-date">4 hours 47 minutes ago -&nbsp;</span>Beware the Batman isn't relying on the usual assortment of villains. We break down the new foes Batman will clash with in this animated series. <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/who-are-the-villains-of-beware-the-batman">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">4 hours 54 minutes ago -&nbsp;</span>Beware the Batman isn't relying on the usual assortment of villains. We break down the new foes Batman will clash with in this animated series. <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/who-are-the-villains-of-beware-the-batman">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/10/who-are-the-villains-of-beware-the-batman#disqus_thread" data-disqus-identifier="51db1002e20c615c07f1cb4a"> 1 Comment</a>
 </div>
 </div>
@@ -833,7 +845,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/wikis/sdcc-comic-con/Comic_Con_2013_Toy_Exclusives">Every Exclusive Toy You Can Score at Comic-Con 2013</a></h3>
-<p><span class="listElmnt-date">4 hours 57 minutes ago -&nbsp;</span>Check out these exclusive toys SDCC 2013 attendees will have exclusive access to: Star Wars, Walking Dead, Mass Effect and much more. <a class="moreLink" href="http://www.ign.com/wikis/sdcc-comic-con/Comic_Con_2013_Toy_Exclusives">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">5 hours 4 minutes ago -&nbsp;</span>Check out these exclusive toys SDCC 2013 attendees will have exclusive access to: Star Wars, Walking Dead, Mass Effect and much more. <a class="moreLink" href="http://www.ign.com/wikis/sdcc-comic-con/Comic_Con_2013_Toy_Exclusives">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/wikis/sdcc-comic-con/Comic_Con_2013_Toy_Exclusives#disqus_thread" data-disqus-identifier="51ddea54e20c615c07f1cbd4"> 1 Comment</a>
 </div>
 </div>
@@ -845,7 +857,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/videos/2013/07/10/curse-of-chucky-trailer-1">Watch the Trailer for Curse of Chucky</a></h3>
-<p><span class="listElmnt-date">5 hours 8 minutes ago -&nbsp;</span>Missed it before? Then check out the return of everyone's favorite homicidal doll! <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/curse-of-chucky-trailer-1">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">5 hours 14 minutes ago -&nbsp;</span>Missed it before? Then check out the return of everyone's favorite homicidal doll! <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/curse-of-chucky-trailer-1">Read More &raquo;</a></p>
 </div>
 </div>
 <!-- poilib end -->
@@ -856,7 +868,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/10/what-did-xbox-one-used-to-look-like">Xbox One Original Designs Revealed</a></h3>
-<p><span class="listElmnt-date">5 hours 23 minutes ago -&nbsp;</span>Take a look at some pre-announcement Xbox One console design rejects.  <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/what-did-xbox-one-used-to-look-like">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">5 hours 30 minutes ago -&nbsp;</span>Take a look at some pre-announcement Xbox One console design rejects.  <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/what-did-xbox-one-used-to-look-like">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/10/what-did-xbox-one-used-to-look-like#disqus_thread" data-disqus-identifier="51dde6469e4e7cc9db4e7316"> 1 Comment</a>
 </div>
 </div>
@@ -868,7 +880,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/10/deus-ex-the-fall-review">Deus Ex: The Fall Review</a></h3>
-<p><span class="listElmnt-date">5 hours 24 minutes ago -&nbsp;</span>Deus Ex: The Fall is not a quick mobile cash-in! Get ready to crawl through more vents and read more fake office email. <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/deus-ex-the-fall-review">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">5 hours 31 minutes ago -&nbsp;</span>Deus Ex: The Fall is not a quick mobile cash-in! Get ready to crawl through more vents and read more fake office email. <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/deus-ex-the-fall-review">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/10/deus-ex-the-fall-review#disqus_thread" data-disqus-identifier="51dde1299e4e7cc9db4e7312"> 1 Comment</a>
 </div>
 </div>
@@ -880,7 +892,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/10/dekkoscan-ios-app-scans-3d-items-into-minecraft">iOS App Scans 3D Objects Into Minecraft</a></h3>
-<p><span class="listElmnt-date">5 hours 29 minutes ago -&nbsp;</span>An upcoming app for iPhone and iPad allows users to seamlessly scan objects into Minecraft. <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/dekkoscan-ios-app-scans-3d-items-into-minecraft">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">5 hours 36 minutes ago -&nbsp;</span>An upcoming app for iPhone and iPad allows users to seamlessly scan objects into Minecraft. <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/dekkoscan-ios-app-scans-3d-items-into-minecraft">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/10/dekkoscan-ios-app-scans-3d-items-into-minecraft#disqus_thread" data-disqus-identifier="51ddde9f402d55e7fb3f6f0c"> 1 Comment</a>
 </div>
 </div>
@@ -892,7 +904,7 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/videos/2013/07/10/ign-discusses-new-nintendo-ips">Do We Care About New Nintendo IPs?</a></h3>
-<p><span class="listElmnt-date">5 hours 47 minutes ago -&nbsp;</span>Shigeru Miyamoto says he's working on a new franchise for Wii U. What does that mean? Does Nintendo really need new IPs? Rich and Sam discuss. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/ign-discusses-new-nintendo-ips">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">5 hours 53 minutes ago -&nbsp;</span>Shigeru Miyamoto says he's working on a new franchise for Wii U. What does that mean? Does Nintendo really need new IPs? Rich and Sam discuss. <a class="moreLink" href="http://www.ign.com/videos/2013/07/10/ign-discusses-new-nintendo-ips">Read More &raquo;</a></p>
 </div>
 </div>
 <!-- poilib end -->
@@ -903,20 +915,8 @@
 </div>
 <div class="listElmnt-blogItem">
 <h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/10/spider-mans-andrew-garfield-wants-mary-jane-to-be-male">Spidey's Garfield Wants a Male MJ</a></h3>
-<p><span class="listElmnt-date">5 hours 52 minutes ago -&nbsp;</span>The Amazing Spider-Man star Andrew Garfield recently pitched the idea: What if MJ was a guy? He even has an actor in mind to play him! <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/spider-mans-andrew-garfield-wants-mary-jane-to-be-male">Read More &raquo;</a></p>
+<p><span class="listElmnt-date">5 hours 59 minutes ago -&nbsp;</span>The Amazing Spider-Man star Andrew Garfield recently pitched the idea: What if MJ was a guy? He even has an actor in mind to play him! <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/spider-mans-andrew-garfield-wants-mary-jane-to-be-male">Read More &raquo;</a></p>
 <a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/10/spider-mans-andrew-garfield-wants-mary-jane-to-be-male#disqus_thread" data-disqus-identifier="51ddad60ae0a83712e27f323"> 1 Comment</a>
-</div>
-</div>
-<!-- poilib end -->
-<!-- poilib start -->
-<div class="listElmnt">
-<div class="listElmnt-thumb">
-<a class="listElmnt-storyHeadline thumb" href="http://www.ign.com/articles/2013/07/10/sean-astin-joins-carlton-cuse-and-guillermo-del-toros-the-strain?abthid=51dde1cdc0de871e20000010"><img src="http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/sean-astin-blog-136x77.jpg"/></a>
-</div>
-<div class="listElmnt-blogItem">
-<h3><a class="listElmnt-storyHeadline" href="http://www.ign.com/articles/2013/07/10/sean-astin-joins-carlton-cuse-and-guillermo-del-toros-the-strain?abthid=51dde1cdc0de871e20000010">LOTR Star Signs on For The Strain</a></h3>
-<p><span class="listElmnt-date">5 hours 59 minutes ago -&nbsp;</span>Sean Astin has joined the cast of The Strain, the new FX pilot from showrunner Carlton Cuse (Lost) and director Guillermo del Toro. <a class="moreLink" href="http://www.ign.com/articles/2013/07/10/sean-astin-joins-carlton-cuse-and-guillermo-del-toros-the-strain?abthid=51dde1cdc0de871e20000010">Read More &raquo;</a></p>
-<a class="listElmnt-bgIcons listElmnt-iconsComments listElmnt-tools" href="http://www.ign.com/articles/2013/07/10/sean-astin-joins-carlton-cuse-and-guillermo-del-toros-the-strain?abthid=51dde1cdc0de871e20000010#disqus_thread" data-disqus-identifier="51ddcde10c2b1e2745bda908"> 1 Comment</a>
 </div>
 </div>
 <!-- poilib end -->
@@ -941,7 +941,7 @@
 <!-- Disqus comment counts -->
 <img src="http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ajax-loader-spinner.gif" class="nowLoading"/>
 
-<!-- View Generation: 352ms - 15.75MB - 105 -->
+<!-- View Generation: 511ms - 15.75MB - 20 -->
 
 <!-- Disqus comment counts -->
 <script type="text/javascript" id="disqus-comments-script-id" class="disqus-comments-script">
@@ -1327,7 +1327,7 @@
 </body>
 </html>
 
-<!-- View Generation: 76ms - 8.00MB - 89 -->
+<!-- View Generation: 73ms - 8.00MB - media-oyster-prd-app-42 -->
 
 
                 </div>
@@ -1500,4 +1500,4 @@
 </body>
 </html>
 
-<!-- View Generation: 431ms - 25.25MB - media-oyster-prd-app-13 -->
+<!-- View Generation: 191ms - 25.50MB - media-oyster-prd-app-31 -->

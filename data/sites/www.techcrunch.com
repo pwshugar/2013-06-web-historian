@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en">
 	<!--
-	generated 289 seconds ago
-	generated in 1.153 seconds
-	served from batcache in 0.007 seconds
-	expires in 11 seconds
+	generated 103 seconds ago
+	generated in 0.968 seconds
+	served from batcache in 0.006 seconds
+	expires in 197 seconds
 -->
 <head profile="http://gmpg.org/xfn/11">
 		<script src="//cdn.optimizely.com/js/15009920.js"></script>
@@ -32,7 +32,7 @@
 		<link href="https://plus.google.com/103037366582313115962/" rel="publisher" />
 <meta name="google-site-verification" content="4U1OC1LwZlFHAehLhCV4rt3YzWI_AyF7Gb0XqlaVEhE" />
 <meta name="msvalidate.01" content="5ABD8A078F3356F3A6A8C8643C31FB8F" />
-		<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=techcrunch.com&amp;id=24588526&amp;t=1373516711&amp;back=techcrunch.com%2F' type="text/javascript"></script>
+		<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=techcrunch.com&amp;id=24588526&amp;t=1373517317&amp;back=techcrunch.com%2F' type="text/javascript"></script>
 		<script type="text/javascript">
 		/* <![CDATA[ */
 			if ( 'function' === typeof WPRemoteLogin ) {
@@ -228,7 +228,7 @@ jQuery(function($){
 					<input name="s" id="header-query" class="query idleSearch" type="text" tabindex="1" value=""/>
 					<input class="btn-search" id="header-search-btn" type="submit" value="" tabindex="2" />
 				</form>
-				<ul class="main-nav"><li id="menu-item-569479" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-569479"><a href="http://techcrunch.com/">Home</a></li>
+				<ul class="main-nav"><li id="menu-item-569479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-569479"><a href="http://techcrunch.com/">Home</a></li>
 <li id="menu-item-335981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-335981"><a href="http://techcrunch.com/startups/">Startups</a></li>
 <li id="menu-item-335982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-335982"><a href="http://techcrunch.com/mobile/">Mobile</a></li>
 <li id="menu-item-335983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-335983"><a href="http://techcrunch.com/gadgets/">Gadgets</a></li>
@@ -468,7 +468,7 @@ jQuery(function($){
 			}
 			var tc_isocket_iframe_ads_initialized = true;
 		</script>
-		<iframe id="isocket_ad_51de33a73def9" class="isocket_ad_row" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src=""></iframe>
+		<iframe id="isocket_ad_51de360531d6a" class="isocket_ad_row" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src=""></iframe>
 		</div>
 
    	<div id="post-843819" class="post-843819 post type-post status-publish format-standard hentry category-asia-35 category-ecommerce category-europe category-fundings-exits category-tc tag-rocket-internet tag-samwer tag-samwer-brothers tag-samwers tag-the-iconic tag-fashion module-post embedded-image-post">
@@ -650,6 +650,14 @@ jQuery(function($){
 
 	
 	<div style="clear: both">
+			<script type="text/javascript">
+			if( tc_isocket_iframe_ads_initialized !== true ){
+				var tc_theme_root_uri = '/wp-content/themes/vip/tctechcrunch2';
+				$( tc_load_isocket_iframes );
+			}
+			var tc_isocket_iframe_ads_initialized = true;
+		</script>
+		<iframe id="isocket_ad_51de360549475" class="isocket_ad_row" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src=""></iframe>
 		</div>
 
    	<div id="post-844258" class="post-844258 post type-post status-publish format-standard sticky hentry category-tc module-post embedded-image-post">
@@ -686,14 +694,6 @@ jQuery(function($){
 
 	
 	<div style="clear: both">
-			<script type="text/javascript">
-			if( tc_isocket_iframe_ads_initialized !== true ){
-				var tc_theme_root_uri = '/wp-content/themes/vip/tctechcrunch2';
-				$( tc_load_isocket_iframes );
-			}
-			var tc_isocket_iframe_ads_initialized = true;
-		</script>
-		<iframe id="isocket_ad_51de33a75a5f7" class="isocket_ad_row" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src=""></iframe>
 			<div style="border-top:1px solid #CCC; padding: 5px 0;" class="river_promo_ad">
 			<script type="text/javascript">
 				<!--
@@ -711,7 +711,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/romain-dillet/" ><span class="name">Romain Dillet</span></a>				</div>
-			<div class="post-time">posted 10 hours ago</div>
+			<div class="post-time">posted 11 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844660">
@@ -746,7 +746,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/jordan-crook/" ><span class="name">Jordan Crook</span></a>				</div>
-			<div class="post-time">posted 10 hours ago</div>
+			<div class="post-time">posted 11 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-843965">
@@ -855,7 +855,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/jordan-crook/" ><span class="name">Jordan Crook</span></a>				</div>
-			<div class="post-time">posted 11 hours ago</div>
+			<div class="post-time">posted 12 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844581">
@@ -892,7 +892,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/ingrid-lunden/" ><span class="name">Ingrid Lunden</span></a>				</div>
-			<div class="post-time">posted 11 hours ago</div>
+			<div class="post-time">posted 12 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844611">
@@ -963,7 +963,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/darrell-etherington/" ><span class="name">Darrell Etherington</span></a>				</div>
-			<div class="post-time">posted 12 hours ago</div>
+			<div class="post-time">posted 13 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844556">
@@ -1144,7 +1144,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/john-biggs/" ><span class="name">John Biggs</span></a>				</div>
-			<div class="post-time">posted 13 hours ago</div>
+			<div class="post-time">posted 14 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844545">
@@ -1469,7 +1469,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/alex-williams/" ><span class="name">Alex Williams</span></a>				</div>
-			<div class="post-time">posted 16 hours ago</div>
+			<div class="post-time">posted 17 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844319">
@@ -1662,32 +1662,12 @@ jQuery(function($){
 						</div>
 					</div>
 										<div class="item">
-						<a href="http://techcrunch.com/2013/07/10/the-dissolve/" title="Pitchfork Media Launches The Dissolve, A Movie Site Looking To Break Out Of The Online Hype&nbsp;Cycle">
-							<img class="thumb" src="http://tctechcrunch2011.files.wordpress.com/2013/07/the-dissolve-logo.jpg?w=89&h=64&crop=1" title="Pitchfork Media Launches The Dissolve, A Movie Site Looking To Break Out Of The Online Hype&nbsp;Cycle" />
-						</a>
-						<div class="title-outer-container">
-							<div class="title-inner-container">
-								<a class="title" href="http://techcrunch.com/2013/07/10/the-dissolve/" title="Pitchfork Media Launches The Dissolve, A Movie Site Looking To Break Out Of The Online Hype&nbsp;Cycle" onclick="s_objectID='post_widget_related';">Breaking Out Of The Online Movie Hype Cycle</a>
-							</div>
-						</div>
-					</div>
-										<div class="item">
 						<a href="http://techcrunch.com/2013/07/10/the-iconic-picks-up-a-26m-round-to-build-out-online-fashion-in-australia-as-rocket-internets-global-march-continues/" title="The Iconic Picks Up A $26M Round To Build Out Online Fashion In Australia, As Rocket Internet&#8217;s Global March&nbsp;Continues">
 							<img class="thumb" src="http://tctechcrunch2011.files.wordpress.com/2013/07/screen-shot-2013-07-10-at-23-41-38.png?w=89&h=64&crop=1" title="The Iconic Picks Up A $26M Round To Build Out Online Fashion In Australia, As Rocket Internet&#8217;s Global March&nbsp;Continues" />
 						</a>
 						<div class="title-outer-container">
 							<div class="title-inner-container">
 								<a class="title" href="http://techcrunch.com/2013/07/10/the-iconic-picks-up-a-26m-round-to-build-out-online-fashion-in-australia-as-rocket-internets-global-march-continues/" title="The Iconic Picks Up A $26M Round To Build Out Online Fashion In Australia, As Rocket Internet&#8217;s Global March&nbsp;Continues" onclick="s_objectID='post_widget_related';">The Iconic Picks Up A $26M Round To Build Out</a>
-							</div>
-						</div>
-					</div>
-										<div class="item">
-						<a href="http://techcrunch.com/2013/07/10/how-to-think-about-minimum-viable-products-and-the-path-to-passion-at-startup-festival/" title="How To Think About Minimum Viable Products, And The Path To Passion At Startup&nbsp;Festival">
-							<img class="thumb" src="http://tctechcrunch2011.files.wordpress.com/2013/07/img_9560.jpg?w=89&h=64&crop=1" title="How To Think About Minimum Viable Products, And The Path To Passion At Startup&nbsp;Festival" />
-						</a>
-						<div class="title-outer-container">
-							<div class="title-inner-container">
-								<a class="title" href="http://techcrunch.com/2013/07/10/how-to-think-about-minimum-viable-products-and-the-path-to-passion-at-startup-festival/" title="How To Think About Minimum Viable Products, And The Path To Passion At Startup&nbsp;Festival" onclick="s_objectID='post_widget_related';">How Lean Entrepreneurs Build MVPs</a>
 							</div>
 						</div>
 					</div>
@@ -1702,12 +1682,22 @@ jQuery(function($){
 						</div>
 					</div>
 										<div class="item">
-						<a href="http://techcrunch.com/2013/07/10/rental-car-startup-silvercar-raises-5m-as-it-looks-at-new-markets/" title="Rental Car Startup Silvercar Raises $5M As It Looks At New&nbsp;Markets">
-							<img class="thumb" src="http://tctechcrunch2011.files.wordpress.com/2013/07/silvercar_logo_tagline-ecb7cb95c9769ef81ffa5592df87926a.jpg?w=89&h=54&crop=1" title="Rental Car Startup Silvercar Raises $5M As It Looks At New&nbsp;Markets" />
+						<a href="http://techcrunch.com/2013/07/10/how-to-think-about-minimum-viable-products-and-the-path-to-passion-at-startup-festival/" title="How To Think About Minimum Viable Products, And The Path To Passion At Startup&nbsp;Festival">
+							<img class="thumb" src="http://tctechcrunch2011.files.wordpress.com/2013/07/img_9560.jpg?w=89&h=64&crop=1" title="How To Think About Minimum Viable Products, And The Path To Passion At Startup&nbsp;Festival" />
 						</a>
 						<div class="title-outer-container">
 							<div class="title-inner-container">
-								<a class="title" href="http://techcrunch.com/2013/07/10/rental-car-startup-silvercar-raises-5m-as-it-looks-at-new-markets/" title="Rental Car Startup Silvercar Raises $5M As It Looks At New&nbsp;Markets" onclick="s_objectID='post_widget_related';">Silvercar Raises $5M</a>
+								<a class="title" href="http://techcrunch.com/2013/07/10/how-to-think-about-minimum-viable-products-and-the-path-to-passion-at-startup-festival/" title="How To Think About Minimum Viable Products, And The Path To Passion At Startup&nbsp;Festival" onclick="s_objectID='post_widget_related';">How Lean Entrepreneurs Build MVPs</a>
+							</div>
+						</div>
+					</div>
+										<div class="item">
+						<a href="http://techcrunch.com/2013/07/10/the-dissolve/" title="Pitchfork Media Launches The Dissolve, A Movie Site Looking To Break Out Of The Online Hype&nbsp;Cycle">
+							<img class="thumb" src="http://tctechcrunch2011.files.wordpress.com/2013/07/the-dissolve-logo.jpg?w=89&h=64&crop=1" title="Pitchfork Media Launches The Dissolve, A Movie Site Looking To Break Out Of The Online Hype&nbsp;Cycle" />
+						</a>
+						<div class="title-outer-container">
+							<div class="title-inner-container">
+								<a class="title" href="http://techcrunch.com/2013/07/10/the-dissolve/" title="Pitchfork Media Launches The Dissolve, A Movie Site Looking To Break Out Of The Online Hype&nbsp;Cycle" onclick="s_objectID='post_widget_related';">Breaking Out Of The Online Movie Hype Cycle</a>
 							</div>
 						</div>
 					</div>
@@ -1718,6 +1708,16 @@ jQuery(function($){
 						<div class="title-outer-container">
 							<div class="title-inner-container">
 								<a class="title" href="http://techcrunch.com/2013/07/04/android-security-hole/" title="Android &#8216;Master Key&#8217; Security Hole Puts 99% Of Devices At Risk Of&nbsp;Exploitation" onclick="s_objectID='post_widget_related';">Android &#039;Master Key&#039; Security Hole Found</a>
+							</div>
+						</div>
+					</div>
+										<div class="item">
+						<a href="http://techcrunch.com/2013/07/10/t-mobile-ditches-old-upgrade-model-reveals-jump-program-to-let-users-switch-phones-whenever/" title="T-Mobile Reveals $10/Month JUMP Program To Let Users Upgrade Phones Twice A&nbsp;Year">
+							<img class="thumb" src="http://tctechcrunch2011.files.wordpress.com/2013/07/legere2.jpg?w=89&h=64&crop=1" title="T-Mobile Reveals $10/Month JUMP Program To Let Users Upgrade Phones Twice A&nbsp;Year" />
+						</a>
+						<div class="title-outer-container">
+							<div class="title-inner-container">
+								<a class="title" href="http://techcrunch.com/2013/07/10/t-mobile-ditches-old-upgrade-model-reveals-jump-program-to-let-users-switch-phones-whenever/" title="T-Mobile Reveals $10/Month JUMP Program To Let Users Upgrade Phones Twice A&nbsp;Year" onclick="s_objectID='post_widget_related';">T-Mobile&#039;s JUMP Lets You Upgrade Twice A Year</a>
 							</div>
 						</div>
 					</div>
@@ -1764,31 +1764,31 @@ jQuery(function($){
 				</div>
 							<div class="rr-upcoming-event">
 					<div class="upcoming-event-date even">
-						<a href="http://techcrunch.com/events/disrupt-sf-2013/">09/07/13</a>
+						<a href="http://techcrunch.com/events/boston-meetup/">11/13/13</a>
 					</div>
 					<div class="upcoming-event-info">
-						<p class="upcoming-event-title"><a href="http://techcrunch.com/events/disrupt-sf-2013/" title="Disrupt SF&nbsp;2013">Disrupt SF&nbsp;2013</a></p>
-						<p class="upcoming-event-location">San Francisco, CA</p>
+						<p class="upcoming-event-title"><a href="http://techcrunch.com/events/boston-meetup/" title="Boston&nbsp;Meetup">Boston&nbsp;Meetup</a></p>
+						<p class="upcoming-event-location">Boston, MA</p>
 					</div>
 					<div class="global-clear"></div>
 				</div>
 							<div class="rr-upcoming-event">
 					<div class="upcoming-event-date odd">
-						<a href="http://techcrunch.com/events/disrupt-europe-berlin-2013/">10/26/13</a>
+						<a href="http://techcrunch.com/events/disrupt-europe-berlin-hackathon/">10/26/13</a>
 					</div>
 					<div class="upcoming-event-info">
-						<p class="upcoming-event-title"><a href="http://techcrunch.com/events/disrupt-europe-berlin-2013/" title="Disrupt Europe&nbsp;2013">Disrupt Europe&nbsp;2013</a></p>
+						<p class="upcoming-event-title"><a href="http://techcrunch.com/events/disrupt-europe-berlin-hackathon/" title="Disrupt Europe:&nbsp;Hackathon">Disrupt Europe:&nbsp;Hackathon</a></p>
 						<p class="upcoming-event-location">Berlin, Germany</p>
 					</div>
 					<div class="global-clear"></div>
 				</div>
 							<div class="rr-upcoming-event">
 					<div class="upcoming-event-date even">
-						<a href="http://techcrunch.com/events/boston-meetup/">11/13/13</a>
+						<a href="http://techcrunch.com/events/disrupt-sf-hackathon-2013/">09/07/13</a>
 					</div>
 					<div class="upcoming-event-info">
-						<p class="upcoming-event-title"><a href="http://techcrunch.com/events/boston-meetup/" title="Boston&nbsp;Meetup">Boston&nbsp;Meetup</a></p>
-						<p class="upcoming-event-location">Boston, MA</p>
+						<p class="upcoming-event-title"><a href="http://techcrunch.com/events/disrupt-sf-hackathon-2013/" title="Disrupt SF Hackathon&nbsp;2013">Disrupt SF Hackathon&nbsp;2013</a></p>
+						<p class="upcoming-event-location">San Francisco</p>
 					</div>
 					<div class="global-clear"></div>
 				</div>
@@ -2426,7 +2426,7 @@ try{
 <script type="text/javascript">
 st_go({'blog':'24588526','v':'wpcom','tz':'-7','user_id':'0','subd':'tctechcrunch2011'});
 function st_vt() {var x=document.createElement("img");x.src="http://stats.wordpress.com/g.gif?blog=24588526&v=wpcomvt&tz=-7&user_id=0&subd=tctechcrunch2011&rand="+Math.random();}
-ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdETWI1alhvb1oseHImN101ZFpEakVpYjlQYVFLYzBaVHRtPz0wXS9bUUFkQnNkNkhIaT9mNUttMjFnW1BEK0JXYyU/Y1RRMlhdbTFwRG9pczYvPVhJWFExRDR3PXhPJmlPTT9CazFKczZbQ0kteDdsYWVYOUxLdU9YNCtoQWV0LzdRW0JJTy93LDgrTWEwSi1+R0VkeWg2dldxSnVtOVlWOEJIeSxrSl1oNVZJRWlia1txTWROdEpWclJIb3hhUXlhPTZXPWpEcG1SbnAxc2JEPTREJmtNMw=='});
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdETWI1alhvb1oseHImN101ZFpEakVpYjlQYVFLYzBaVHRtPz0wXS9bUUFkQnNkNkhIaT9mNUttMjFnW1BEK0JXYyU/Y1RRMlhdbTFwRG9pczYvPVhJdFFoclgubXgxRnxsV25HfC13YSZdVCxOYUdYZUhQfmFtMjFLbVUyeW89UHxiVU5+LVNHLXZNd2hsfGdFLEpvYUoyUFp6TExNUVU9RUJNOUZzRjBZRXMwLy8rUmhNYl05XzcueUJPclo2dzZ5az8tUG42b0xpMCZPelZHOGEueCtKN29p'});
 addLoadEvent(function(){linktracker_init('24588526',0);});
 	</script>
 <noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
