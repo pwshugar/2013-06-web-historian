@@ -43,8 +43,6 @@ exports.handleRequest = function (req, res) {
         fs.appendFileSync(exports.datadir, body.substr(4) + '\n');
       }
       res.writeHead(302, headers);
-      console.log('testfile contents', fs.readFileSync(exports.datadir, 'utf8'));
-      console.log(exports.datadir);
       res.end(body.substr(4));
     });
   }

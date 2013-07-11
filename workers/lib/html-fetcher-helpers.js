@@ -1,5 +1,7 @@
 exports.readUrls = function(filePath, cb){
-  // fixme
+  for (var i = 0; i < filePath.length; i++){
+    cb(filePath[i]);
+  }
 };
 
 exports.downloadUrls = function(urls){
