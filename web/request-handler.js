@@ -19,11 +19,11 @@ exports.handleRequest = function (req, res) {
 
   if(req.method === 'GET'){
     res.writeHead(200, headers);
-    if (fs.existsSync('/Users/hackreactor/code/Shugardude/2013-06-web-historian/data/sites/' + req.url.substr(22))) {
-      if (req.url.substr(22) === ''){
+    if (fs.existsSync('/Users/hackreactor/code/Shugardude/2013-06-web-historian/data/sites' + req.url)) {
+      if (req.url === '/'){
         res.end('<input></input>');
       } else {
-        res.end(fs.readFileSync('/Users/hackreactor/code/Shugardude/2013-06-web-historian/data/sites/' + req.url.substr(22), 'utf8'));
+        res.end(fs.readFileSync('/Users/hackreactor/code/Shugardude/2013-06-web-historian/data/sites' + req.url, 'utf8'));
       }
     } else {
       res.writeHead(404, headers);
