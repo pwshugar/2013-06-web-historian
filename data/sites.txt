@@ -2,3 +2,6 @@ www.facebook.com
 www.yahoo.com
 www.techcrunch.com
 www.apple.com
+www.ign.com
+www.gamefaqs.com
+www.gamespot.com

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en">
 	<!--
-	generated 80 seconds ago
-	generated in 1.138 seconds
-	served from batcache in 0.006 seconds
-	expires in 220 seconds
+	generated 289 seconds ago
+	generated in 1.153 seconds
+	served from batcache in 0.007 seconds
+	expires in 11 seconds
 -->
 <head profile="http://gmpg.org/xfn/11">
 		<script src="//cdn.optimizely.com/js/15009920.js"></script>
@@ -32,7 +32,7 @@
 		<link href="https://plus.google.com/103037366582313115962/" rel="publisher" />
 <meta name="google-site-verification" content="4U1OC1LwZlFHAehLhCV4rt3YzWI_AyF7Gb0XqlaVEhE" />
 <meta name="msvalidate.01" content="5ABD8A078F3356F3A6A8C8643C31FB8F" />
-		<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=techcrunch.com&amp;id=24588526&amp;t=1373515203&amp;back=techcrunch.com%2F' type="text/javascript"></script>
+		<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=techcrunch.com&amp;id=24588526&amp;t=1373516711&amp;back=techcrunch.com%2F' type="text/javascript"></script>
 		<script type="text/javascript">
 		/* <![CDATA[ */
 			if ( 'function' === typeof WPRemoteLogin ) {
@@ -228,7 +228,7 @@ jQuery(function($){
 					<input name="s" id="header-query" class="query idleSearch" type="text" tabindex="1" value=""/>
 					<input class="btn-search" id="header-search-btn" type="submit" value="" tabindex="2" />
 				</form>
-				<ul class="main-nav"><li id="menu-item-569479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-569479"><a href="http://techcrunch.com/">Home</a></li>
+				<ul class="main-nav"><li id="menu-item-569479" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-569479"><a href="http://techcrunch.com/">Home</a></li>
 <li id="menu-item-335981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-335981"><a href="http://techcrunch.com/startups/">Startups</a></li>
 <li id="menu-item-335982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-335982"><a href="http://techcrunch.com/mobile/">Mobile</a></li>
 <li id="menu-item-335983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-335983"><a href="http://techcrunch.com/gadgets/">Gadgets</a></li>
@@ -468,7 +468,7 @@ jQuery(function($){
 			}
 			var tc_isocket_iframe_ads_initialized = true;
 		</script>
-		<iframe id="isocket_ad_51de2dc39bdbb" class="isocket_ad_row" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src=""></iframe>
+		<iframe id="isocket_ad_51de33a73def9" class="isocket_ad_row" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src=""></iframe>
 		</div>
 
    	<div id="post-843819" class="post-843819 post type-post status-publish format-standard hentry category-asia-35 category-ecommerce category-europe category-fundings-exits category-tc tag-rocket-internet tag-samwer tag-samwer-brothers tag-samwers tag-the-iconic tag-fashion module-post embedded-image-post">
@@ -548,7 +548,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/chris-velazco/" ><span class="name">Chris Velazco</span></a>				</div>
-			<div class="post-time">posted 9 hours ago</div>
+			<div class="post-time">posted 10 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844642">
@@ -584,7 +584,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/anthony-ha/" ><span class="name">Anthony Ha</span></a>				</div>
-			<div class="post-time">posted 9 hours ago</div>
+			<div class="post-time">posted 10 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844689">
@@ -614,14 +614,6 @@ jQuery(function($){
 
 	
 	<div style="clear: both">
-			<script type="text/javascript">
-			if( tc_isocket_iframe_ads_initialized !== true ){
-				var tc_theme_root_uri = '/wp-content/themes/vip/tctechcrunch2';
-				$( tc_load_isocket_iframes );
-			}
-			var tc_isocket_iframe_ads_initialized = true;
-		</script>
-		<iframe id="isocket_ad_51de2dc3b32e4" class="isocket_ad_row" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src=""></iframe>
 		</div>
 
    	<div id="post-844657" class="post-844657 post type-post status-publish format-standard hentry category-tc tag-apple tag-os-x tag-3d-scanning tag-microsoft-kinect tag-windows tag-manctl tag-occipital tag-skanect tag-adam-rodnitzsky tag-foundry-group tag-360-panorama tag-redlaser tag-ebay tag-asus-xtion module-post embedded-image-post">
@@ -694,6 +686,14 @@ jQuery(function($){
 
 	
 	<div style="clear: both">
+			<script type="text/javascript">
+			if( tc_isocket_iframe_ads_initialized !== true ){
+				var tc_theme_root_uri = '/wp-content/themes/vip/tctechcrunch2';
+				$( tc_load_isocket_iframes );
+			}
+			var tc_isocket_iframe_ads_initialized = true;
+		</script>
+		<iframe id="isocket_ad_51de33a75a5f7" class="isocket_ad_row" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src=""></iframe>
 			<div style="border-top:1px solid #CCC; padding: 5px 0;" class="river_promo_ad">
 			<script type="text/javascript">
 				<!--
@@ -783,7 +783,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/ingrid-lunden/" ><span class="name">Ingrid Lunden</span></a>				</div>
-			<div class="post-time">posted 10 hours ago</div>
+			<div class="post-time">posted 11 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844542">
@@ -928,7 +928,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/ryan-lawler/" ><span class="name">Ryan Lawler</span></a>				</div>
-			<div class="post-time">posted 11 hours ago</div>
+			<div class="post-time">posted 12 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844539">
@@ -1000,7 +1000,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/frederic-lardinois/" ><span class="name">Frederic Lardinois</span></a>				</div>
-			<div class="post-time">posted 12 hours ago</div>
+			<div class="post-time">posted 13 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844328">
@@ -1036,7 +1036,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/sarah-perez/" ><span class="name">Sarah Perez</span></a>				</div>
-			<div class="post-time">posted 12 hours ago</div>
+			<div class="post-time">posted 13 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844548">
@@ -1179,7 +1179,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/sarah-perez/" ><span class="name">Sarah Perez</span></a>				</div>
-			<div class="post-time">posted 13 hours ago</div>
+			<div class="post-time">posted 14 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844519">
@@ -1215,7 +1215,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/ingrid-lunden/" ><span class="name">Ingrid Lunden</span></a> and <a class="name" href="/author/mike-butcher/" ><span class="name">Mike Butcher</span></a>				</div>
-			<div class="post-time">posted 14 hours ago</div>
+			<div class="post-time">posted 15 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844479">
@@ -1251,7 +1251,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/romain-dillet/" ><span class="name">Romain Dillet</span></a>				</div>
-			<div class="post-time">posted 14 hours ago</div>
+			<div class="post-time">posted 15 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844480">
@@ -1287,7 +1287,7 @@ jQuery(function($){
 				<div class="publication-info">
 				<div class="by-line">
 				<a class="name" href="/author/billy-gallagher/" ><span class="name">Billy Gallagher</span></a>				</div>
-			<div class="post-time">posted 15 hours ago</div>
+			<div class="post-time">posted 16 hours ago</div>
 		</div>
 
 			<div class="lazy-share-widget" id="sharing-844327">
@@ -2093,11 +2093,11 @@ jQuery(function() { jQuery("#tabs-crunchboard").tabs(); });
 				<div class="category">
 					<h3 class="headline">Latest on TechCrunch TV</h3>
 					<ul class="link-list">
-<li><a href="http://techcrunch.com/2013/07/10/gillmor-gang-live-07-10-13-tctv/">Gillmor Gang Live  07.10.13&nbsp;(TCTV)</a></li>
 <li><a href="http://techcrunch.com/2013/07/10/lyft-holds-first-community-meeting-to-rally-support-and-save-the-stache-in-la/">Lyft Holds First Community Meeting To Rally Support And Save The &#8216;Stache In&nbsp;LA</a></li>
 <li><a href="http://techcrunch.com/2013/07/10/yousendit-name-change-hightail/">YouSendIt Changes Its Name To Hightail As It Aims To Become Known For More Than Just&nbsp;Storage</a></li>
 <li><a href="http://techcrunch.com/2013/07/09/keen-on-draper-university-of-heroes-tim-draper-is-looking-for-the-best-and-the-brightest-is-that-you/">Keen On&#8230; Draper University Of Heroes: Tim Draper Is Looking For The Best And The Brightest (Is That&nbsp;You?)</a></li>
 <li><a href="http://techcrunch.com/2013/07/07/fly-or-die-instagram-video/">Fly Or Die: Instagram&nbsp;Video</a></li>
+<li><a href="http://techcrunch.com/2013/07/05/songza-founders-talk-about-newly-launched-club-songza-competition-from-apple-pandora/">Songza Founders Talk About Newly Launched Club Songza, Competition From Apple,&nbsp;Pandora</a></li>
 </ul>					<div class="more-in-cat"><a href="http://techcrunch.tv">More on TechCrunch TV</a></div>
 				</div>
 				<div class="category">
@@ -2426,7 +2426,7 @@ try{
 <script type="text/javascript">
 st_go({'blog':'24588526','v':'wpcom','tz':'-7','user_id':'0','subd':'tctechcrunch2011'});
 function st_vt() {var x=document.createElement("img");x.src="http://stats.wordpress.com/g.gif?blog=24588526&v=wpcomvt&tz=-7&user_id=0&subd=tctechcrunch2011&rand="+Math.random();}
-ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdETWI1alhvb1oseHImN101ZFpEakVpYjlQYVFLYzBaVHRtPz0wXS9bUUFkQnNkNkhIaT9mNUttMjFnW1BEK0JXYyU/Y1RRMlhdbTFwRG9pczYvPVhJLGYySStkMWd2TDlHTnJWZEcwdmQ/ZGZRV0JJT0V0XWNXL3ZUWDRzNS4sdkdCWHJNfDhuV241cC58eCtQMWpTdlM5YmpYZldtOVg5LnVOJTBpcV11aHFVTWNSeWNPdXk5eEd8K2YsNSZwcnM4RW9+L0kvbTFqVG1mUUUlSnRXJlQzQ3g='});
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdETWI1alhvb1oseHImN101ZFpEakVpYjlQYVFLYzBaVHRtPz0wXS9bUUFkQnNkNkhIaT9mNUttMjFnW1BEK0JXYyU/Y1RRMlhdbTFwRG9pczYvPVhJWFExRDR3PXhPJmlPTT9CazFKczZbQ0kteDdsYWVYOUxLdU9YNCtoQWV0LzdRW0JJTy93LDgrTWEwSi1+R0VkeWg2dldxSnVtOVlWOEJIeSxrSl1oNVZJRWlia1txTWROdEpWclJIb3hhUXlhPTZXPWpEcG1SbnAxc2JEPTREJmtNMw=='});
 addLoadEvent(function(){linktracker_init('24588526',0);});
 	</script>
 <noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>

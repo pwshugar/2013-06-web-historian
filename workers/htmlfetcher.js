@@ -6,8 +6,10 @@ var urls = fs.readFileSync('/Users/hackreactor/code/Shugardude/2013-06-web-histo
 urls = urls.split('\n');
 urls.splice(urls.length - 1);
 
-exports.runOnce = function(){
+var runOnce = function(){
   helpers.readUrls(urls, function(value){
     helpers.downloadUrls(value);
   });
 };
+
+runOnce();

@@ -47,5 +47,4 @@ exports.handleRequest = function (req, res) {
       res.end(body.substr(4));
     });
   }
-  htmlfetcher.runOnce();
 };
