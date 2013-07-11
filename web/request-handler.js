@@ -37,14 +37,15 @@ exports.handleRequest = function (req, res) {
       body += data;
     });
     req.on('end', function(){
-      fs.appendFileSync(exports.datadir,req._postData.url + "\n");
-      // fs.appendFile(exports.datadir,", " + body.substr(4), function () {
-      //     console.log(body.substr(4));
-      // });
+      if (req._postData){
+        fs.appendFileSync(exports.datadir,req._postData.url + "\n");
+      } else {
+        fs.appendFileSync(exports.datadir, body.substr(4) + '\n');
+      }
       res.writeHead(302, headers);
       console.log('testfile contents', fs.readFileSync(exports.datadir, 'utf8'));
       console.log(exports.datadir);
-      res.end(req._postData.url + "\n");
+      res.end(body.substr(4));
     });
   }
 };
